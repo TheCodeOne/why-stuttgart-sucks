@@ -6,4 +6,4 @@ This repo is all about facts about why Stuttgart isn't as nice as others describ
 
 ## Submitting changes and new topics
 
-Please send a [GitHub Pull Request](https://github.com/TheCodeOne/why-stuttgart-sucks/pull/new/master) with a clear list of what you want to get changed or added and why (read more about [pull requests](http://help.github.com/pull-requests/)). Please make sure all of your commits are atomic (one topic per commit).
+Please send a [GitHub Pull Request](https://github.com/TheCodeOne/why-stuttgart-sucks/pull/new/master) with a clear list of what you want to get changed or added and why (read more about [pull requests](https://help.github.com/en/articles/about-pull-requests)). Please make sure all of your commits are atomic (one topic per commit).
