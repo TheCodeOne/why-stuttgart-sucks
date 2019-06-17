@@ -1,3 +1,3 @@
-# Warum Stuttgart scheiße ist
+# Why Stuttgart sucks
 
-Da ich oft gefragt werde wieso ich Stuttgart nicht so mag wie manch anderer werde ich hier memeine Gedanken zum Thema `Wieso ist Stuttgart Scheiße` zusammenfassen
+Since I'm often asked why I don't like Stuttgart as much as many others I'll summarize my thoughts here. If you want to contribute to this repo please read this: [why-stuttgart-sucks/CONTRIBUTING.md at master · TheCodeOne/why-stuttgart-sucks · GitHub](https://github.com/TheCodeOne/why-stuttgart-sucks/blob/master/CONTRIBUTING.md).
