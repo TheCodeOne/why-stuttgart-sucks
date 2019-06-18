@@ -1,6 +1,42 @@
 # Why Stuttgart sucks
 
-Since I'm often asked why I don't like Stuttgart as much as many others I'll summarize my thoughts here. Many topics are highly subjective but i'll try to add proof where it is possible. If you want to contribute to this repo please read this: [How to contribute](https://github.com/TheCodeOne/why-stuttgart-sucks/blob/master/CONTRIBUTING.md).
+Since I'm often asked why I don't like Stuttgart as much as many others I'll summarize my thoughts here. Many topics are highly subjective but i'll try to add proof where it is possible. Also it's an ongoing project, so don't be surprised if some things are still missing.
+If you want to contribute to this repo please read this: [How to contribute](https://github.com/TheCodeOne/why-stuttgart-sucks/blob/master/CONTRIBUTING.md).
+
+<!-- toc -->
+
+- [Parking](#Parking)
+- [ÖPNV](#OPNV)
+  * [Stadtbahnen](#Stadtbahnen)
+  * [Long distance trains](#Long-distance-trains)
+- [Leisure time](#Leisure-time)
+  * [Sports grounds](#Sports-grounds)
+  * [Cycle paths](#Cycle-paths)
+  * [Local recreation areas](#Local-recreation-areas)
+    + [Karlshöhe](#Karlshohe)
+    + [Schlosspark](#Schlosspark)
+    + [No accessible water in the immediate vicinity](#No-accessible-water-in-the-immediate-vicinity)
+  * [Cinemas](#Cinemas)
+- [General Swabianism](#General-Swabianism)
+  * ["Kehrwoche"](#Kehrwoche)
+  * [General unfriendliness](#General-unfriendliness)
+- [Restaurants, Bars and shops](#Restaurants-Bars-and-shops)
+  * [Quality](#Quality)
+  * [Price](#Price)
+  * [Card payments](#Card-payments)
+  * [The selection](#The-selection)
+  * [Friendliness](#Friendliness)
+  * [Service](#Service)
+  * [Reliability](#Reliability)
+- [Doctors infrastructure](#Doctors-infrastructure)
+  * [Finding a family physician](#Finding-a-family-physician)
+  * [Geting an appointment](#Geting-an-appointment)
+- [Trash](#Trash)
+  * [Organic waste bin](#Organic-waste-bin)
+  * [Yellow bag](#Yellow-bag)
+  * [Garbage situation at Marienplatz](#Garbage-situation-at-Marienplatz)
+
+<!-- tocstop -->
 
 ## Parking
 
@@ -12,14 +48,14 @@ With me in the south of Stuttgart, the parking situation is not as dramatic as i
 Since I also live on the edge of my parking zone, I only have one direction in which I can legally look for parking spaces - but fortunately the traffic wardens are not so strict and do not take the occasional parking ticket into account.
 
 
-## Public transportation
+## ÖPNV
 
 As an example for a ruined public transport I like to give the example when I have to travel from Marienplatz to the airport:
 
-|      | Time       | Costs  | Costs without mileage allowance* |
-|------|------------|--------|----------------------------------|
-| PT   | 40 Minutes | 2,90€  | 2,90€                            |
-| Car  | 14 Minutes | 4,88€  | 1,28€                            |
+|      | Time       | Costs | Costs without mileage allowance* |
+| ---- | ---------- | ----- | -------------------------------- |
+| PT** | 40 Minutes | 2,90€ | 2,90€                            |
+| Car  | 14 Minutes | 4,88€ | 1,28€                            |
 
 *Provided that there is no traffic jam and all connections are reached; travel costs of the car are calculated with:*
 
@@ -29,6 +65,7 @@ As an example for a ruined public transport I like to give the example when I ha
 - *Mileage allowance: 0,30€/KM*
 
 *For `costs without mileage allowance` the mileage allowance of 0,30€ is not included.
+** Public Transport
 
 Conclusion: A simple trip from Marienplatz to the airport takes three times as long by public transport as by car. 
 In addition, driving your own car is cheaper if the mileage allowance of 0.30€ is disregarded.
@@ -47,18 +84,18 @@ I don't know if it's Stuttgart21, but to get from Marienplatz to the main statio
 Trip from Marienplatz to Stuttgart Central Station disregarding costs:
 
 |      | Time       |
-|------|------------|
+| ---- | ---------- |
 | PT   | 16 Minutes |
 | Bike | 11 Minutes |
 | Car  | 5 Minutes  |
 
 
-### Bahn
+### Long distance trains
 
 Marienplatz -> Tübingen Hbf
 
 |       | Time       | Costs | Costs without mileage allowance* |
-|-------|------------|-------|----------------------------------|
+| ----- | ---------- | ----- | -------------------------------- |
 | Train | 76 Minutes | 15€   | 15€                              |
 | Car   | 30 Minutes | 16€   | 3,80€                            |
 
@@ -72,3 +109,57 @@ Marienplatz -> Tübingen Hbf
 The costs are calculated for one person. If you would like to drive in pairs, the price per person for a car would be halved, whereas the price for the train would remain the same.
 
 Since I had to travel the route often by train, I can report from my own experience that the connecting trains in Herrenberg only wait every second time, which extends the total travel time (ideally) by half an hour. Thus the journey with the train takes four times as long if the connecting trains do not wait in comparison to the car if there are no traffic jams.
+
+## Leisure time
+### Sports grounds
+
+### Cycle paths
+[CRITICAL MASS STUTTGART \| Ritzel statt Rußpartikel](https://criticalmassstuttgart.wordpress.com/)
+
+### Local recreation areas
+
+#### Karlshöhe
+
+#### Schlosspark
+
+#### No accessible water in the immediate vicinity
+
+### Cinemas
+
+## General Swabianism
+
+### "Kehrwoche"
+
+### General unfriendliness
+
+## Restaurants, Bars and shops
+
+### Quality
+
+### Price
+
+### Card payments
+
+### The selection
+
+### Friendliness
+
+### Service
+
+### Reliability
+
+## Doctors infrastructure
+
+### Finding a family physician
+
+### Geting an appointment
+
+## Trash
+
+### Organic waste bin
+
+### Yellow bag
+
+### Garbage situation at Marienplatz
+
+![2F021567-A07F-4CD7-9607-1C49F99393A9-2.jpg](https://www.stadtkind-stuttgart.de/wp-cda3d-content/uploads/2F021567-A07F-4CD7-9607-1C49F99393A9-2.jpg)
