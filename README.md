@@ -6,7 +6,7 @@ If you want to contribute to this repo please read this: [How to contribute](htt
 <!-- toc -->
 
 - [Parking](#Parking)
-- [ÖPNV](#OPNV)
+- [Public transportation](#Public-transportation)
   * [Stadtbahnen](#Stadtbahnen)
   * [Long distance trains](#Long-distance-trains)
 - [Leisure time](#Leisure-time)
@@ -48,7 +48,7 @@ With me in the south of Stuttgart, the parking situation is not as dramatic as i
 Since I also live on the edge of my parking zone, I only have one direction in which I can legally look for parking spaces - but fortunately the traffic wardens are not so strict and do not take the occasional parking ticket into account.
 
 
-## ÖPNV
+## Public transportation
 
 As an example for a ruined public transport I like to give the example when I have to travel from Marienplatz to the airport:
 
