@@ -163,3 +163,5 @@ Since I had to travel the route often by train, I can report from my own experie
 ### Garbage situation at Marienplatz
 
 ![2F021567-A07F-4CD7-9607-1C49F99393A9-2.jpg](https://www.stadtkind-stuttgart.de/wp-cda3d-content/uploads/2F021567-A07F-4CD7-9607-1C49F99393A9-2.jpg)
+
+source: https://www.stadtkind-stuttgart.de/wp-cda3d-content/uploads/2F021567-A07F-4CD7-9607-1C49F99393A9-2.jpg
