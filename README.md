@@ -11,7 +11,7 @@ Due to Github's markdown limitations the footnotes are not displayed correctly [
 
 - [Parking](#Parking)
 - [Public transportation](#Public-transportation)
-    * [Stadtbahnen](#Stadtbahnen)
+  * [Stadtbahnen](#Stadtbahnen)
   * [Long distance trains](#Long-distance-trains)
 - [Leisure time](#Leisure-time)
   * [Sports grounds](#Sports-grounds)
@@ -39,6 +39,7 @@ Due to Github's markdown limitations the footnotes are not displayed correctly [
   * [Organic waste bin](#Organic-waste-bin)
   * [Yellow bag](#Yellow-bag)
   * [Garbage situation at Marienplatz](#Garbage-situation-at-Marienplatz)
+- [Sources](#Sources)
 
 <!-- tocstop -->
 
