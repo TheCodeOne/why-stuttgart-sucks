@@ -59,7 +59,7 @@ As an example for a ruined public transport I like to give the example when I ha
 
 |      | Time                                        | Costs                        | Costs without mileage allowance* |
 | ---- | ------------------------------------------- | ---------------------------- | -------------------------------- |
-| PT** | 31 Minutes [^pt-marienplatz-airport]        | 2,90€ [^vvs-cost-calculator] | 2,90€                            |
+| PT** | 31 Minutes [^pt-route-marienplatz-airport]        | 2,90€ [^vvs-cost-calculator] | 2,90€                            |
 | Car  | 14 Minutes [^car-route-marienplatz-airport] | 4,58€                        | 1,16€                            |
 
 *Provided that there is no traffic jam and all connections are reached; travel costs of the car are calculated with:*
