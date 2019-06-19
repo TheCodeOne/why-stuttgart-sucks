@@ -207,4 +207,4 @@ source: https://www.stadtkind-stuttgart.de/wp-cda3d-content/uploads/2F021567-A07
 
 [^train-marienplatz-tuebingen]: [DB BAHN - Verbindungen - Ihre Auskunft](https://reiseauskunft.bahn.de/bin/query.exe/dn?ld=4282&protocol=https:&seqnr=5&ident=hf.02396982.1560955310&rt=1&OK#focus)
 
-[^car-route-marienplatz-tuebingen-main-train-station] [Google Maps](https://www.google.de/maps/dir/Marienplatz,+70178+Stuttgart/T%C3%BCbingen+Hbf,+T%C3%BCbingen/@48.6279569,8.9781897,11z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x4799db50fa9aa06d:0x883a2ad3d639de2b!2m2!1d9.1680688!2d48.7644292!1m5!1m1!1s0x4799fad0fcbc0807:0x945bbbbf7d544d42!2m2!1d9.0553347!2d48.515979!2m3!6e1!7e2!8j1560941100!3e0)
+[^car-route-marienplatz-tuebingen-main-train-station]: [Google Maps](https://www.google.de/maps/dir/Marienplatz,+70178+Stuttgart/T%C3%BCbingen+Hbf,+T%C3%BCbingen/@48.6279569,8.9781897,11z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x4799db50fa9aa06d:0x883a2ad3d639de2b!2m2!1d9.1680688!2d48.7644292!1m5!1m1!1s0x4799fad0fcbc0807:0x945bbbbf7d544d42!2m2!1d9.0553347!2d48.515979!2m3!6e1!7e2!8j1560941100!3e0)
