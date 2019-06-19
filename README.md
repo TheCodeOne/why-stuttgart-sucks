@@ -6,6 +6,7 @@ If you want to contribute to this repo please read this: [How to contribute](htt
 ## Before you start reading
 Due to Github's markdown limitations the footnotes are not displayed correctly [Known 'issue'](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown). I would therefore advise you to copy the markdown file and view it in a dedicated viewer such as [StackEdit](https://stackedit.io/app#)
 
+## Table of contents
 <!-- toc -->
 
 - [Parking](#Parking)
