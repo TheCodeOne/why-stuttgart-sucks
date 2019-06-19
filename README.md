@@ -103,10 +103,10 @@ Trip from Marienplatz to Stuttgart Central Station disregarding costs:
 
 Marienplatz -> Tübingen Hbf
 
-|       | Time       | Costs | Costs without mileage allowance* |
-| ----- | ---------- | ----- | -------------------------------- |
-| Train | 73 Minutes[^route-car-marienplatz-tuebingen-main-rail-station]: | 10,30€[^train-marienplatz-tuebingen]   | 10,30€                              |
-| Car   | 30 Minutes | 16,33€   | 4,18€                            |
+|       | Time                                                            | Costs                                | Costs without mileage allowance* |
+| ----- | --------------------------------------------------------------- | ------------------------------------ | -------------------------------- |
+| Train | 73 Minutes[^route-car-marienplatz-tuebingen-main-rail-station]: | 10,30€[^train-marienplatz-tuebingen] | 10,30€                           |
+| Car   | 30 Minutes                                                      | 16,33€                               | 4,18€                            |
 
 *Provided that there is no traffic jam and all connections are reached; travel costs of the car are calculated with:*
 
