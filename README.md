@@ -3,6 +3,9 @@
 Since I'm often asked why I don't like Stuttgart as much as many others I'll summarize my thoughts here. Many topics are highly subjective but i'll try to add proof where it is possible. Also it's an ongoing project, so don't be surprised if some things are still missing.
 If you want to contribute to this repo please read this: [How to contribute](https://github.com/TheCodeOne/why-stuttgart-sucks/blob/master/CONTRIBUTING.md).
 
+## Before you start reading
+Due to Github's markdown limitations the footnotes are not displayed correctly [Known 'issue'](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown). I would therefore advise you to copy the markdown file and view it in a dedicated viewer such as [StackEdit](https://stackedit.io/app#)
+
 <!-- toc -->
 
 - [Parking](#Parking)
