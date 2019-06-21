@@ -1,3 +1,4 @@
+
 # Why Stuttgart sucks
 
 Since I'm often asked why I don't like Stuttgart as much as many others I'll summarize my thoughts here. Many topics are highly subjective but i'll try to add proof where it is possible. Also it's an ongoing project, so don't be surprised if some things are still missing.
@@ -32,6 +33,7 @@ Due to Github's markdown limitations the footnotes are not displayed correctly [
   * [Friendliness](#Friendliness)
   * [Service](#Service)
   * [Reliability](#Reliability)
+  * [Waiting time in both Rewe's checkout queue at Marienplatz](#Waiting-time-in-both-Rewes-checkout-queue-at-Marienplatz)
 - [Doctors infrastructure](#Doctors-infrastructure)
   * [Finding a family physician](#Finding-a-family-physician)
   * [Geting an appointment](#Geting-an-appointment)
@@ -157,6 +159,8 @@ Since I had to travel the route often by train, I can report from my own experie
 ### Service
 
 ### Reliability
+
+### Waiting time in both Rewe's checkout queue at Marienplatz
 
 ## Doctors infrastructure
 
