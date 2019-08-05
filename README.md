@@ -142,6 +142,8 @@ Since I had to travel the route often by train, I can report from my own experie
 
 ### "Kehrwoche"
 
+<!-- https://www.stepstone.de/Ueber-StepStone/wp-content/uploads/2019/02/StepStone_Gehaltsreport_2019_WEB.pdf -->
+
 ### General unfriendliness
 
 ## Restaurants, Bars and shops
