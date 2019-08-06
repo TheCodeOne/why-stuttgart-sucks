@@ -125,6 +125,22 @@ Since I had to travel the route often by train, I can report from my own experie
 ## Leisure time
 ### Sports grounds
 
+I lived in Tübingen for a long time and spent my youth on an asphalted basketball court with iron baskets, iron nets and no lines. If I had known what a luxury we had back then, the discussions with my buddies about the court would have been different.
+The closest court, seen from my point of view, is the basketball court at Marienplatz.
+
+Key Facts:
+
+- The ground is artificial turf filled with sand. Quick changes of direction are not possible because of the lack of friction. If you fall you directly get sand in the abrasive wound.
+- there are lines - but they are badminton lines
+- One basket is about 2.95m high, the other 3.10m high.
+- The place itself has a gradient. Jumping is so dangerous that you should not jump.
+- The boundaries of one side line are hip-high stone stairs. If somebody should fall down there it can come to serious injuries.
+- Although the court is a pure basketball court, children often come, partly with their parents, in the cage and start playing football.
+- There are no shadows. For that you have to join the homeless people who are lying in the urine under the bridge of the Zacke. 
+- The lights are not directed at the playing field but shine away from it.
+
+Unfortunately, there is no alternative in the immediate vicinity. The nearest basketball court is in Cannstatt at the Johan Friedrich von Cotta School. There are two full court fields and two single baskets. The ground is tartan and you will almost always find players there who have a similar level - if you are not alone. Unfortunately, it often happened that I took the long ride after work only to find out that there was nobody there. It takes about 30 minutes to get there by bike and 21 minutes by tram.  
+
 ### Cycle paths
 [CRITICAL MASS STUTTGART \| Ritzel statt Rußpartikel](https://criticalmassstuttgart.wordpress.com/)
 
