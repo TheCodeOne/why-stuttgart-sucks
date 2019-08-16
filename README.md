@@ -8,12 +8,24 @@ If you want to contribute to this repo please read this: [How to contribute](htt
 Due to Github's markdown limitations the footnotes are not displayed correctly [Known 'issue'](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown). I would therefore advise you to copy the markdown file and view it in a dedicated viewer such as [StackEdit](https://stackedit.io/app#)
 
 ## Table of contents
+
 <!-- toc -->
 
-- [Parking](#Parking)
-- [Public transportation](#Public-transportation)
-  * [Stadtbahnen](#Stadtbahnen)
-  * [Long distance trains](#Long-distance-trains)
+- [Flat Rental](#Flat-Rental)
+  * [Rates](#Rates)
+  * [Offers](#Offers)
+- [Mobility](#Mobility)
+  * [Car](#Car)
+    + [Parking](#Parking)
+    + [Traffic Jams](#Traffic-Jams)
+  * [Public transportation](#Public-transportation)
+    + [Stadtbahnen](#Stadtbahnen)
+    + [Long distance trains](#Long-distance-trains)
+    + [Lime scooters and similar offers](#Lime-scooters-and-similar-offers)
+- [Too many construction sites](#Too-many-construction-sites)
+- [Air quality](#Air-quality)
+- [Too few nursery schools, Kindergartens and day-care centres for children](#Too-few-nursery-schools-Kindergartens-and-day-care-centres-for-children)
+- [Very high taxes and fees](#Very-high-taxes-and-fees)
 - [Leisure time](#Leisure-time)
   * [Sports grounds](#Sports-grounds)
   * [Cycle paths](#Cycle-paths)
@@ -45,7 +57,17 @@ Due to Github's markdown limitations the footnotes are not displayed correctly [
 
 <!-- tocstop -->
 
-## Parking
+## Flat Rental
+
+### Rates
+
+### Offers
+
+## Mobility
+
+### Car
+
+#### Parking
 
 I know that almost every German city has immense problems when it comes to parking. Nevertheless, the west of Stuttgart is known as "Parkhölle" throughout Germany due to its high population density.
 
@@ -54,8 +76,9 @@ A good friend of mine lives in the west of Stuttgart and tells me again and agai
 With me in the south of Stuttgart, the parking situation is not as dramatic as in the west, but I don't get a parking space less than 100m away when I drive home from practice in the evening. Because of the one-way streets, I have to drive at least 3 kilometers to search the immediate neighborhood for parking spaces.
 Since I also live on the edge of my parking zone[^stuttgart-parking-zones], I only have one direction in which I can legally look for parking spaces - but fortunately the traffic wardens are not so strict and do not take the occasional parking ticket into account.
 
+#### Traffic Jams
 
-## Public transportation
+### Public transportation
 
 As an example for a ruined public transport I like to give the example when I have to travel from Marienplatz to the airport:
 
@@ -80,7 +103,7 @@ In addition, driving your own car is cheaper if the mileage allowance of 0.30€
 <!-- Add comparison to other "big" cities in germany -->
 
 
-### Stadtbahnen
+#### Stadtbahnen
 
 Stuttgart's Stadtbahnen are not underground railways and must therefore participate in car traffic. The `U` in `U-Bahn` stands literally for `Für den eigenständig, kreuzungsfrei und unabhängig von anderen städtischen Verkehrssystemen konzipierten Bahnkörper,`[^stadtbahn-ubahn] It is not uncommon for a track to have to be completely closed due to an accident accured from a traffic accident and for people to have to get to their destination in a different way.
 
@@ -102,7 +125,7 @@ Trip from Marienplatz to Stuttgart Central Station disregarding costs:
 | Car[^route-car-marienplatz-main-rail-station]    | 5 Minutes  |
 
 
-### Long distance trains
+#### Long distance trains
 
 Marienplatz -> Tübingen Hbf
 
@@ -121,6 +144,16 @@ Marienplatz -> Tübingen Hbf
 The costs are calculated for one person. If you would like to drive in pairs, the price per person for a car would be halved, whereas the price for the train would remain the same. Also the price of 10,30€ is new - in the past the price was ~15€
 
 Since I had to travel the route often by train, I can report from my own experience that the connecting trains in Herrenberg only wait about every second time, which extends the total travel time (ideally) by half an hour. Thus the journey with the train takes roughly three times longer if the connecting trains do not wait in comparison to the car if there are no traffic jams.
+
+#### Lime scooters and similar offers
+
+## Too many construction sites
+
+## Air quality
+
+## Too few nursery schools, Kindergartens and day-care centres for children
+
+## Very high taxes and fees
 
 ## Leisure time
 ### Sports grounds
